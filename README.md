@@ -4,5 +4,7 @@
 <h4 align="left">Tentanto sobreviver ao curso.</h4>
 
 
-sonho: (programação + design) web = cientista de dados
-*(estatístico com 3 linguaens de programação)*
+Interesses:
+- (programação + design) web
+
+- cientista de dados *(estatístico com +2 linguagens de programação)*
