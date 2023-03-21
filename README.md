@@ -8,6 +8,5 @@ Interesses:
 - Construir site/plataforma para ensinar estatística gratuitamente.
 
 - (programação + design) web.
-Usarei apenas HTML, (CSS, JavaScrit) puro e mais algumas coisas. Só o necessário para um site.
 
 - cientista de dados *(estatístico com +2 linguagens de programação)*
