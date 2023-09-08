@@ -10,3 +10,8 @@ Interesses:
 - (programação + design) web.
 
 - cientista de dados *(estatístico com +2 linguagens de programação)*
+
+
+Linguagens:
+  - R (intermedirario)
+  - Python (iniciando)
