@@ -2,8 +2,6 @@
 
 ## Informações de Contato
 
-- **Telefone:** +55 61 xxxxx-xxxx
-- **E-mail:** xxxxxxxxxx@gmail.com
 - **GitHub:** [estatistica](https://czargab18.github.io.com/estatistica)
 - **Localização:** Brasília, DF
 
