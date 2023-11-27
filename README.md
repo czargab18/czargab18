@@ -9,10 +9,6 @@
 
 - **2021.1 - 2026.1:** Bacharelado em Estatística, Universidade de Brasília
 
-## Idiomas
-
-- **Inglês:** 50%
-
 ## Perfil
 
 
