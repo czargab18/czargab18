@@ -2,7 +2,7 @@
 
 ## Informações de Contato
 
-- **GitHub:** [estatistica](https://czargab18.github.io.com/estatistica)
+- **GitHub:** <a href="https://czargab18.github.io/estatistica/inde.html">estatistica</a>
 - **Localização:** Brasília, DF
 
 ## Educação
