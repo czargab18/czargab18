@@ -19,22 +19,7 @@ O desafio está em aplicar meu conhecimento em projetos práticos, enfrentando p
 Ser estudante de estatística é explorar um mundo rico em padrões e incertezas, onde cada aula e projeto revelam a narrativa por trás dos números. A jornada é desafiadora, mas gratificante, e mal posso esperar para ver onde essa paixão me levará.
 
 
-## Experiência
-Estou ávido por experiências profissionais que complementem minha formação acadêmica. Desde o início da faculdade, tenho me dedicado não apenas às teorias, mas também à aplicação prática dos conhecimentos adquiridos.
-
-Enxergo em cada projeto uma oportunidade de enfrentar desafios reais, trabalhando com conjuntos de dados da vida cotidiana. A estatística, para mim, vai além das salas de aula, sendo uma ferramenta poderosa para a tomada de decisões informadas em diversos contextos.
-
-Tenho buscado não só aprimorar minhas habilidades matemáticas, mas também desenvolver a capacidade de compreender a complexidade dos problemas e aplicar soluções de forma contextualizada. Além disso, valorizo a interação com colegas e professores, pois acredito que a colaboração é fundamental para uma compreensão abrangente e aplicação eficaz da estatística.
-
-Minha busca por experiências profissionais é motivada pela vontade de ver a estatística em ação, contribuindo de maneira significativa para soluções práticas. Cada oportunidade representa um passo adiante na construção de uma carreira sólida, e estou ansioso para aplicar meus conhecimentos em cenários do mundo real, expandindo meu entendimento e impacto no campo da estatística.
-
 ## Habilidades
 
 - **R:** 60%
-- **Python:** 5%
-
-## Interesses
-
-- Leitura
-- Design
-- Programação
+- **Python:** 25%
