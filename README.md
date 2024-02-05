@@ -2,7 +2,6 @@
 
 ## Informações de Contato
 
-- **Contato:** cesagabrieljob@gmail.com
 - **Localização:** Brasília, DF
 
 ## Educação
